@@ -1,0 +1,175 @@
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="6" width="99%">
+<p><strong>履歷表 Resume</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><st>姓 名</st></p>
+</td>
+<td colspan="2" width="18%">
+<p><strong>林怡均</strong></p>
+</td>
+<td colspan="2" width="19%">
+<p><strong>女</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><strong>年齡</strong></p>
+</td>
+<td colspan="2" width="18%">
+<p><strong>19</strong></p>
+</td>
+<td colspan="2" width="19%">
+<p><strong>O</strong><strong>型</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><strong>籍 貫</strong></p>
+</td>
+<td colspan="2" width="18%">
+<p><strong>臺灣省</strong></p>
+</td>
+<td colspan="2" width="19%">
+<p><strong>165cm</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><strong>聯 絡</strong></p>
+<p><strong>電 話</strong></p>
+</td>
+<td colspan="2" width="18%">
+<p><strong>(02)25529957</strong></p>
+</td>
+<td colspan="2" width="19%">
+<p><strong>0966347322</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><strong>E&ndash;mail </strong></p>
+</td>
+<td colspan="4" width="50%">
+<p><strong>Jamie862727@gmail.com</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="14%">
+<p><strong>通&nbsp; 訊</strong></p>
+<p><strong>地&nbsp; 址</strong></p>
+</td>
+<td colspan="4" width="50%">
+<p><strong>台北市大同區寧夏路</strong><strong>130</strong><strong>號</strong><strong>2</strong><strong>樓</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="99%">
+<p><strong>學歷</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37%">
+<p><strong>學 校 名 稱</strong></p>
+</td>
+<td colspan="2" width="22%">
+<p><strong>科 系</strong></p>
+</td>
+<td colspan="2" width="24%">
+<p><strong>修 業 期 間</strong></p>
+</td>
+<td width="15%">
+<p><strong>備 註</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37%">
+<p><strong>國立臺北護理健康大學</strong></p>
+</td>
+<td colspan="2" width="22%">
+<p><strong>健康事業管理系</strong></p>
+</td>
+<td colspan="2" width="24%">
+<p><strong>107</strong><strong>年─111年</strong></p>
+</td>
+<td width="15%">
+<p><strong>在學</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37%">
+<p><strong>臺北市私立靜修女中</strong></p>
+</td>
+<td colspan="2" width="22%">
+<p><strong>應用英語系</strong></p>
+</td>
+<td colspan="2" width="24%">
+<p><strong>104</strong><strong>年-107年</strong></p>
+</td>
+<td width="15%">
+<p><strong>畢業</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37%">
+<p><strong>臺北市立成淵高中 (國中部)</strong></p>
+</td>
+<td colspan="2" width="22%">&nbsp;</td>
+<td colspan="2" width="24%">
+<p><strong>101</strong><strong>年-104年</strong></p>
+</td>
+<td width="15%">
+<p><strong>畢業</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37%">
+<p><strong>臺北市雙蓮國民小學</strong></p>
+</td>
+<td colspan="2" width="22%">&nbsp;</td>
+<td colspan="2" width="24%">
+<p><strong>96</strong><strong>年-101年</strong></p>
+</td>
+<td width="15%">
+<p><strong>畢業</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="99%">
+<p><strong>三、工作經驗</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="99%">
+<p><strong>7-11</strong><strong>工讀生</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="99%">
+<p><strong>四、自傳</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="4" width="99%">
+<p>家庭環境</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>我是林怡均，出生在一個平凡又溫馨的家庭，家中成員包含我一共有七位：爺爺、奶奶、爸爸、媽媽、妹妹、弟弟。爺爺奶奶都對我們疼愛有加，是他們將我們從幼兒時期一手帶大的；父母用民主的方式管教我們，希望我們能夠獨立自主、主動學習，累積人生經驗，但他們會適時的給予鼓勵和建議；就讀國中的妹妹，是我談心的好對象；就讀小學的弟弟是家中的開心果也是家事的好幫手。</strong></p>
+<p>興趣與專長</p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>從小對</strong><strong>游泳</strong><strong>產生濃厚興趣的我，就讀幼稚園便開始學習游泳。除了游泳我也很喜歡球類運動，包括排球、羽球、籃球、桌球等等。能靜能動的我，</strong><strong>唱歌</strong><strong>是我的拿手絕活，而我還有一項特殊的專長就是&mdash;&mdash; </strong><strong>書法</strong><strong>，國小3年級透過書法社，開始學習書法，從此便成為我的興趣，閒暇時間我也會和朋友一起去參觀美術館，欣賞大師們偉大的藝術作品。</strong></p>
+<p>求學歷程</p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>從小到大皆就讀在家附近的學校，就連幼稚園也不例外，從幼稚園中班開始接觸珠心算，</strong><strong>曾獲得世紀盃第八屆全國珠算心算暨數學比賽心算第一名。</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>在小學時代的我很活潑，課業表現經常位居前三名，課外活動也從不缺席，曾被游泳隊教練相重，因而進入泳隊一同受訓，從泳隊中學到了團隊合作的精神。除了擔任班長與副班長外，其他幹部皆擔任過，另外</strong><strong>曾獲選校內儀隊舉旗手</strong><strong>，並以</strong><strong>議長獎</strong><strong>畢業。</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>國中時在學校人際關係良好，因為無論何時，總是笑臉迎人，微笑已成為我個人的正字招牌。也因</strong><strong>寫字端正</strong><strong>，</strong><strong>被導師推舉為學藝股長任職兩年</strong><strong>。在體育課的游泳課程中，也曾被校隊教練相中，但因學校的某些關係而取消泳隊的成立。</strong><strong>也曾參與兩屆書法競賽</strong><strong>，雖然未得獎，卻獲得了寶貴的經驗。國中的班導有如嚴母，經常給我們許多鼓勵與建議，而同學間的相處十分融洽，彼此之間很有默契，團結一心，在大大小小的班級競賽中總是獲得佳績。</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>進靜修後，每天都覺得很充實、很快樂。</strong><strong>曾任秩序糾察隊</strong><strong>。在課業方面，都能保持在一定的水準，因為上課專心聽講、用心體會老師所傳達的每一句話，一有問題就立刻發問，因此上課的吸收效率很高，不但使得複習的工作能夠快速完成，還有多餘的時間從事課外活動。高中三年</strong><strong>曾擔任三個學期的學藝股長</strong><strong>，也曾任</strong><strong>國文小老師</strong><strong>、</strong><strong>歷史小老師</strong><strong>、</strong><strong>地理小老師</strong><strong>，而在高三時</strong><strong>被推舉為班級優良學生代表</strong><strong>。在眾多的科目當中，我最喜歡的是</strong><strong>國文</strong><strong>，因為它是我們的母語同時也是一種文化的傳承，閱讀文言文使我們對古代的文化有些許的認知。久而久之因校園中遍布的女性優美氣質，而經過一翻薰陶，使我們從淘氣的小女孩漸漸成為端莊的輕熟女。</strong></p>
+<p><strong><br /> </strong>人格特質</p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong><strong>從小，父母就給我一個既溫馨又自由的成長環境，使我擁有一顆</strong><strong>樂觀</strong><strong>且</strong><strong>熱心助人</strong><strong>的心，也漸漸的建立出</strong><strong>獨立</strong><strong>的個性。「誠信」是做人處事最基本的道理，「</strong><strong>一言既出</strong><strong>，</strong><strong>駟馬難追</strong><strong>」是我處世的原則，一旦做出了承諾，無論如何都一定會達成。對於每一件事情也總是抱持著認真負責的態度，絕對不會半途而廢。我刻苦耐勞，不怕困難與挑戰；我與人為善，樂於團隊合作更勝過單打獨鬥。</strong></p>
+<p>志&nbsp; 向</p>
+<p><strong>&nbsp; </strong><strong>「</strong><strong>學習是一生的志業</strong><strong>，</strong><strong>堅持是理想的實踐</strong><strong>」每個人都有色彩斑斕的志向，而我的志向就是──</strong><strong>當一名外科醫生。</strong><strong>現在台灣人才外流，因此更需要培養出更多有意願留在台灣、將我們的醫學發揚光大的頂尖人才。因此，未來我想當外科醫生，將我所學的所有智慧結晶與高深的醫學技術傳授給下一代的子孫，使我們偉大的醫學研究延續保存。為了實現自己的興趣和完成理想，希望能夠透過貴校專業的課程，充實我的知識寶庫。</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
